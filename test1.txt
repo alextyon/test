@@ -6,3 +6,4 @@ line 4
 line 5 #abcd
 line 6
 u1:line1
+u2:line1
